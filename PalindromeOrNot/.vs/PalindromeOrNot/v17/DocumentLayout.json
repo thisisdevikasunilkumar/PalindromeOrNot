@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\PalindromeOrNot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E134C65F-8A46-4991-908A-DB785A0CAF6D}|PalindromeOrNot\\PalindromeOrNot.csproj|d:\\aitrich\\.net\\1. asp.net\\module_2\\1-c sharp\\palindromeornot\\palindromeornot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E134C65F-8A46-4991-908A-DB785A0CAF6D}|PalindromeOrNot\\PalindromeOrNot.csproj|solutionrelative:palindromeornot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\PalindromeOrNot\\PalindromeOrNot\\Program.cs",
+              "RelativeDocumentMoniker": "PalindromeOrNot\\Program.cs",
+              "ToolTip": "D:\\Aitrich\\.net\\1. Asp.Net\\Module_2\\1-C sharp\\PalindromeOrNot\\PalindromeOrNot\\Program.cs",
+              "RelativeToolTip": "PalindromeOrNot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T08:39:50.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

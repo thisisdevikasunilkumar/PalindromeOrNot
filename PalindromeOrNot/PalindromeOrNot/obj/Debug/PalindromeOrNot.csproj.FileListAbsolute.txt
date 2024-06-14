@@ -1,0 +1,7 @@
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\bin\Debug\PalindromeOrNot.exe.config
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\bin\Debug\PalindromeOrNot.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\bin\Debug\PalindromeOrNot.pdb
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\obj\Debug\PalindromeOrNot.csproj.AssemblyReference.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\obj\Debug\PalindromeOrNot.csproj.CoreCompileInputs.cache
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\obj\Debug\PalindromeOrNot.exe
+D:\Aitrich\.net\1. Asp.Net\Module_2\1-C sharp\PalindromeOrNot\PalindromeOrNot\obj\Debug\PalindromeOrNot.pdb
